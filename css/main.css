@@ -1,0 +1,109 @@
+/*****base styles*****/
+
+
+body {
+color: #2b2b2b;
+font-family: 'Quattrocento', serif;
+border: 1px solid black;
+margin: 0px 2px;
+}
+
+.main {
+  line-height: 50px;
+  width: 1300px;
+  height; auto;
+  margin: 70px 25px;
+}
+
+
+/*****header*****/
+
+
+.header {
+  font-size: 158px;
+  line-height: 20px;
+}
+
+.underline {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  border-bottom: 3px solid black;
+  line-height; -20px;
+  letter-spacing: 2.4px;
+}
+
+.oswald-largetext {
+  font-family: 'Oswald', sans-serif;
+  font-size: 76px;
+  font-weight: lighter;
+  margin-top: 100px;
+}
+
+.oswald-largetext-2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 76px;
+  font-weight: lighter;
+  letter-spacing: 2.5px;
+}
+
+.oswald-largetext-3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 76px;
+  font-weight: lighter;
+  letter-spacing: 11.6px;
+}
+
+.oswald {
+  font-family: 'Oswald', sans-serif;
+  font-size: 43px;
+}
+
+.oswald-small {
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  letter-spacing: 6.4px;
+}
+
+.wire-one {
+  font-family: 'Wire One', sans-serif;
+  font-size: 50px;
+  line-height: 0px;
+  font-weight: bold;
+  letter-spacing: -1.5px;
+}
+
+.kaushan-script {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 60px;
+}
+
+.kaushan-script-small {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 45px;
+}
+
+.coda-caption {
+  font-family: 'coda-caption', sans-serif;
+  font-size: 50px;
+}
+
+.big-text {
+  font-family: 'oswald', sans-serif;
+  font-size: 90px;
+  letter-spacing: 14px;
+  line-height: 50px;
+}
+
+.big-text-bottom {
+  font-family: 'oswald', sans-serif;
+  font-size: 90px;
+  letter-spacing: 12px;
+  text-decoration: underline;
+  line-height: 0px;
+}
+
+.footer {
+  font-size: 152px;
+  line-height: 140px;
+	letter-spacing: .5px;
+}
